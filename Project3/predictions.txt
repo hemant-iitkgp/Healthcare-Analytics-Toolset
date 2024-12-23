@@ -1,0 +1,11 @@
+eight.png: Malignant
+eleven.png: Malignant
+five.png: Malignant
+four.png: Malignant
+fourteen.png: Malignant
+nine.png: Malignant
+one.png: Benign
+seven.png: Benign
+six.png: Benign
+twelve.png: Benign
+two.png: Benign
